@@ -16,7 +16,7 @@ import java.util.stream.IntStream;
  * @author Sandeep Thangirala
  *
  *	Triangle
-	By starting at the top of the triangle and moving to adjacent numbers on the row below, the maximum total from top to bottom is 27.
+	By starting at the bottom of the triangle and moving to up the rows, the maximum total from top to bottom is 27.
 
 Initial:
 	        5
