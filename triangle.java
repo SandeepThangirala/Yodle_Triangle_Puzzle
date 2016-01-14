@@ -41,18 +41,18 @@ Loop One:
 	  0   7  1   5
 
 Loop Two:
-          5
+          	5
 	      22  6        // 9+11 or 9+13 - Which ever is greater take that value and replace 9
 	    11   13  13    
 	  0   7  1   5	
 
-          5
+          	5
 	      22  19        // 6+11 or 6+13 - Which ever is greater take that value and replace 6
 	    11   13  13    
 	  0   7  1   5	
 
 Loop Three:
-          5         // 5+22 or 5+19 - Which ever is greater take that value and replace 5
+          	5         // 5+22 or 5+19 - Which ever is greater take that value and replace 5
 	      22  19        
 	    11   13  13    
 	  0   7  1   5
